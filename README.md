@@ -72,8 +72,6 @@
   </a>
 </p>
 
-<!-- Bullet Points -->
-- 📫 How to reach me **manish.rouniyar2060@gmail.com**  
 
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
