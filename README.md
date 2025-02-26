@@ -11,6 +11,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 <!-- Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- MERN Stack -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -75,6 +76,7 @@
 - 📫 How to reach me **manish.rouniyar2060@gmail.com**  
 
 <!-- Social Links -->
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/manish-rouniyar-1067b428a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
