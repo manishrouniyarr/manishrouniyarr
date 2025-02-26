@@ -5,10 +5,11 @@
 <!-- Stats side by side -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishrouniyarr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 <!-- Floating GIF on the right -->
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
